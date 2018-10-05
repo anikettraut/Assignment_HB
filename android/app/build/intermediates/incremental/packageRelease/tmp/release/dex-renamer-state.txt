@@ -1,0 +1,4 @@
+#Fri Oct 05 13:31:36 IST 2018
+base.0=/Users/sdnmacmini36/Desktop/Aniket/Demo Project/ShoppingDemo/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

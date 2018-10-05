@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+
+    GET_SHOPPING_LIST: 'GET_SHOPPING_LIST',
+}
+
+export default ACTION_TYPES
